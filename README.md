@@ -8,7 +8,6 @@
 </p>
 <p align="right"><picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture></p>
 
-- 🔭 I’m currently working on [LawMate Project](https://github.com/LawMateProject)  
 - 🌱 I’m currently learning **React, Next.js, React Native**  
 - 💬 Ask me about **React**  
 - 📫 How to reach me: **isharahansani235@gmail.com**  
